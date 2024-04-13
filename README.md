@@ -1,4 +1,21 @@
-# PipesApp
+## Description 📑
+
+This is an application created to learn how to use pipes: built-in pipes that Angular provides for typical data transformations and custom pipes to encapsulate transformations that are not provided with the built-in pipes.
+
+## The site is live at 
+https://analauraarce.github.io/pipesApp/
+
+## Author ✒️
+**Ana Laura Arce**
+
+* alauraarce8@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/analauraarce/)
+
+## What have I learned with this project? 🙇🏻 
+
+To use commonly used built-in pipes for data formatting: DatePipe, UpperCasePipe, LowerCasePipe, CurrencyPipe... To create custom pipes and to work with PrimeNG.
+
+## PipesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
