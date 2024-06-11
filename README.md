@@ -13,7 +13,7 @@ https://analauraarce.github.io/pipesApp/
 
 ## What have I learned with this project? 🙇🏻 
 
-To use commonly used built-in pipes for data formatting: DatePipe, UpperCasePipe, LowerCasePipe, CurrencyPipe... To create custom pipes and to work with PrimeNG.
+How to use commonly used built-in pipes for data formatting: DatePipe, UpperCasePipe, LowerCasePipe, CurrencyPipe... How to create custom pipes and how to work with PrimeNG.
 
 ## PipesApp
 
